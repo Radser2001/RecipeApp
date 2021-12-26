@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://recipe-app-radser.netlify.app/">⭐️ RecipeApp ⭐️</a><br>
+        ⭐️ RecipeApp ⭐️<br>
     </b>
 
 </h1>
