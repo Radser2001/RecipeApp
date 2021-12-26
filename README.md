@@ -5,7 +5,7 @@
 
 </h1>
 
-<p align="center"> <b> A Recipe App create using React.js and recipe search api <br> </b> <p>
+<p align="center"> <b> A Recipe App created using React.js and recipe search api <br> </b> <p>
 
 <p align="center"> https://recipe-app-radser.netlify.app/ <p>
 
